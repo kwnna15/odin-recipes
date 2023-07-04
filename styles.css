@@ -1,0 +1,36 @@
+
+*{
+    font-family: cursive, Tahoma, 'Times New Roman';
+}
+
+
+
+  .title-text {
+    color: blue;
+    font-size: 35px;
+    font-weight: bold;
+
+  }
+
+  .title-text .small-title {
+    color: purple;
+    font-size: 30px;
+    font-weight: bold;
+  }  
+
+  .credits{
+    font-family: Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(68, 0, 255);
+    font-size: 15px;
+}
+
+.list-items{
+    font-style: italic;
+}
+
+img{
+    height: auto;
+    width: 450px;
+}
+
+
